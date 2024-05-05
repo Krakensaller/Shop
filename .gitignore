@@ -1,0 +1,47 @@
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jetbrains Pycharm IDE
+.idea/
+
+# Virtual Environment
+.env*
+.venv
+venv/
+
+# Database Files
+*.sql
+
+# Compressed Files
+*.zip
+
+# Byte-compiled / optimized
+__pycache__/
+
+# Logs
+logs/
+
+# npm
+node_modules/
+.npm
+
+# Sonarqube
+sonar-project.properties
+.scannerwork/
+
+notes.txt
